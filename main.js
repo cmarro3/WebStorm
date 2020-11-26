@@ -9,3 +9,4 @@ for(let i = 1; i < 10; i+= 2){
     oddArray.push(i);
 } // changing the i = 1 will print out the odd
 console.log(oddArray);
+//console.log(color());
